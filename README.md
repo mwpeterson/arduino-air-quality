@@ -17,7 +17,7 @@ Practical applications for this project and the data collected may include predi
 * [Arduino MKR WiFi 1010](https://store-usa.arduino.cc/products/arduino-mkr-wifi-1010)
 * [Arduino MKR 485 Shield](https://store-usa.arduino.cc/products/arduino-mkr-485-shield)
 ### Sensors
-* [DFROBOT SEN0482](https://www.dfrobot.com/product-2340.html) RS485 Wind Direction Transmitter
+* [DFRobot SEN0482](https://www.dfrobot.com/product-2340.html) RS485 Wind Direction Transmitter
 * [Adafruit BME688](https://www.adafruit.com/product/5046) - Temperature, Humidity, Pressure and Gas Sensor
 * [Adafruit PMSA003I](https://www.adafruit.com/product/4632) - Air Quality Breakout
 * [Adafruit I2S MEMS](https://www.adafruit.com/product/3421) - Microphone Breakout
